@@ -4,6 +4,7 @@ html {
 
 #container {
   max-width: 1200px;
+  min-width: 302px;
   padding: 10px;
   margin: 0 auto;
   /* Centrar en pantalla */
@@ -111,10 +112,11 @@ main aside section {
   margin-bottom: 10px;
   background-color: yellowgreen;
 }
- 
+
 main aside section:last-child {
   margin: 0;
-} 
+}
+
 
 
 /******** footer *****/
@@ -130,3 +132,4 @@ footer p {
   background-color: gold;
   margin: 0px;
 }
+
